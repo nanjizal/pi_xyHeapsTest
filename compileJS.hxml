@@ -1,5 +1,6 @@
 -js binHeaps/testHeaps.js
 -cp src
+-lib pi_xy
 -lib justPath
 -lib iterMagic
 -lib format

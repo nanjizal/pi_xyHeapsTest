@@ -1,6 +1,7 @@
 package pi_xy.application;
 import h2d.Graphics;
 import hxd.Key in K;
+import pi_xy.PixelImage;
 
 class TestHeaps extends hxd.App {
     var bmp : h2d.Bitmap;
