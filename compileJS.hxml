@@ -5,7 +5,7 @@
 -lib iterMagic
 -lib format
 -lib heaps
--main pi_xy.application.TestHeaps
+-main pi_xy_.application.TestHeaps
 #-D js-flatten 
 --next
 -cmd echo '<!DOCTYPE html><meta charset="UTF-8"><html><body><canvas id="webgl" bgColor="#FF181818" width="1024" height="968"></div></canvas><script src="testHeaps.js"></script></body></html>' > binHeaps/index.html
